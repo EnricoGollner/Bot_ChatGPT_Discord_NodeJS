@@ -41,7 +41,7 @@ client.on('messageCreate', async function (message) {
             ${client.user.username}: Hello, how can I help you?
             ${client.user.username}:
             `,
-                max_tokens: 100,
+                max_tokens: 2000,
                 stop: ["ChatGPT:", "Test:"],
             })
 
