@@ -16,4 +16,5 @@ OPENAI_API_KEY= ** Sua chave de API que pode ser gerada no link: https://platfor
 ### No Chat do Discord:
 
 Todos os prompts (perguntas do usuário) devem ser iniciados pelo comando "/chat"
+
 Exemplo: "/chat write an article about software engineering"
